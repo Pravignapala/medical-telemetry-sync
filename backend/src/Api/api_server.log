@@ -1,0 +1,11 @@
+nohup: ignoring input
+Using launch settings from C:\Users\palap\Desktop\medical-telemetry-sync\backend\src\Api\Properties\launchSettings.json...
+--> SQLite Database initialized successfully.
+info: Microsoft.Hosting.Lifetime[14]
+      Now listening on: http://127.0.0.1:5000
+info: Microsoft.Hosting.Lifetime[0]
+      Application started. Press Ctrl+C to shut down.
+info: Microsoft.Hosting.Lifetime[0]
+      Hosting environment: Development
+info: Microsoft.Hosting.Lifetime[0]
+      Content root path: C:\Users\palap\Desktop\medical-telemetry-sync\backend\src\Api

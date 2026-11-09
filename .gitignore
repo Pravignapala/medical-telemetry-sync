@@ -1,0 +1,9 @@
+# .NET build outputs and temporary databases
+bin/
+obj/
+*.db
+*.db-shm
+*.db-wal
+node_modules/
+.angular/
+dist/
