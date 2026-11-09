@@ -10,7 +10,7 @@ In every room, little computer boxes watch patients' heartbeats and breathing. S
 
 Here is what you see when you look at the screen:
 
-![Clinical Telemetry Dashboard](dashboard-preview.png)
+![Clinical Telemetry Dashboard](image.png)
 
 ---
 
